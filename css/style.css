@@ -1,6 +1,7 @@
 html{
-	margin:auto;
-	
+
+	font-style::"Times New Roman",Georgia,Serif;
+
 }
 header{
 	position: fixed !important;
@@ -20,5 +21,19 @@ header{
 	overflow:hidden;
 	position: relative;
 	z-index: 10;
-	min-height: 1020px;
+	min-height: 800px;
+}
+.image_quote{
+	background:#011309 url("../img/yoda-quote.jpg") no-repeat fixed 50% 0px;
+	overflow:hidden;
+	position: relative;
+	z-index: 10;
+	min-height: 800px;
+}
+
+
+
+
+.yoda{
+	width: 100%
 }
